@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.jumbotron{
+  background-color:rgb(205, 233, 205) ;
+  padding: 20px;
+}
+
+.jumbotron h2 {
+  background-color: ghostwhite;
+}
+
+.Header-BackgroundColor{
+  background-color: rgb(244, 249, 255);
+}
