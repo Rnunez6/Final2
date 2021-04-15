@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Final/static/css/main.f633ee62.chunk.css",
+    "main.js": "/Final/static/js/main.c44bb856.chunk.js",
+    "main.js.map": "/Final/static/js/main.c44bb856.chunk.js.map",
+    "runtime-main.js": "/Final/static/js/runtime-main.f2b71c7e.js",
+    "runtime-main.js.map": "/Final/static/js/runtime-main.f2b71c7e.js.map",
+    "static/css/2.fc0ea485.chunk.css": "/Final/static/css/2.fc0ea485.chunk.css",
+    "static/js/2.8954cb6e.chunk.js": "/Final/static/js/2.8954cb6e.chunk.js",
+    "static/js/2.8954cb6e.chunk.js.map": "/Final/static/js/2.8954cb6e.chunk.js.map",
+    "static/js/3.2551a3b4.chunk.js": "/Final/static/js/3.2551a3b4.chunk.js",
+    "static/js/3.2551a3b4.chunk.js.map": "/Final/static/js/3.2551a3b4.chunk.js.map",
+    "index.html": "/Final/index.html",
+    "static/css/2.fc0ea485.chunk.css.map": "/Final/static/css/2.fc0ea485.chunk.css.map",
+    "static/css/main.f633ee62.chunk.css.map": "/Final/static/css/main.f633ee62.chunk.css.map",
+    "static/js/2.8954cb6e.chunk.js.LICENSE.txt": "/Final/static/js/2.8954cb6e.chunk.js.LICENSE.txt",
+    "static/media/20150306_133547.87396292.jpg": "/Final/static/media/20150306_133547.87396292.jpg",
+    "static/media/Anno2070.027eaca6.jpg": "/Final/static/media/Anno2070.027eaca6.jpg",
+    "static/media/Civilization-V.c604ed3d.jpg": "/Final/static/media/Civilization-V.c604ed3d.jpg",
+    "static/media/Screenshot from 2021-04-05 15-24-39.d3ef882c.png": "/Final/static/media/Screenshot from 2021-04-05 15-24-39.d3ef882c.png",
+    "static/media/SimCity.b66e743b.jpeg": "/Final/static/media/SimCity.b66e743b.jpeg",
+    "static/media/banished.81a9fec0.jpg": "/Final/static/media/banished.81a9fec0.jpg",
+    "static/media/bootstrap.f132cb79.png": "/Final/static/media/bootstrap.f132cb79.png",
+    "static/media/germany.cb565b53.jpg": "/Final/static/media/germany.cb565b53.jpg",
+    "static/media/pup1.c08e0349.jpeg": "/Final/static/media/pup1.c08e0349.jpeg",
+    "static/media/pup2.6ff42e9f.jpeg": "/Final/static/media/pup2.6ff42e9f.jpeg",
+    "static/media/pup3.94740b89.jpeg": "/Final/static/media/pup3.94740b89.jpeg",
+    "static/media/russia.c0533470.jpeg": "/Final/static/media/russia.c0533470.jpeg",
+    "static/media/southkorea.31fbf592.jpeg": "/Final/static/media/southkorea.31fbf592.jpeg",
+    "static/media/temple.7b6fd868.jpg": "/Final/static/media/temple.7b6fd868.jpg",
+    "static/media/tetris.8f53d3d9.jpg": "/Final/static/media/tetris.8f53d3d9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2b71c7e.js",
+    "static/css/2.fc0ea485.chunk.css",
+    "static/js/2.8954cb6e.chunk.js",
+    "static/css/main.f633ee62.chunk.css",
+    "static/js/main.c44bb856.chunk.js"
+  ]
+}
