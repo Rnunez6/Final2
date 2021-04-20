@@ -16,7 +16,7 @@ class Main extends Component {
     <HashRouter>
     <div className="Header-BackgroundColor">
 
-      <h1 style={{display: 'flex',  justifyContent:'center', alignItems:'center' }} >MircoTrain Final 2021</h1>
+      <h1 style={{display: 'flex',  justifyContent:'center', alignItems:'center' }} >MicroTrain Final 2021</h1>
       <ul className="header">
         <li><NavLink to="/" >Home</NavLink></li>
         <li><NavLink to="/projects" >Projects</NavLink></li>

@@ -18,7 +18,7 @@ class Projects extends Component {
       <Carousel>
       
       <div>
-      <p>This project making a <a href="https://rnunez6.github.io/jquery-apod/index">NSA </a> apod in jquery</p>
+      <p>This project making a <a href="https://rnunez6.github.io/jquery-apod/index">NASA </a> apod in jquery</p>
       <img src="https://apod.nasa.gov/apod/image/9902/ngc1316_wfpc.jpg" alt="NSA" />
       </div>
       
